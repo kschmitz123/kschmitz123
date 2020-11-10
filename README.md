@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kschmitz123&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kschmitz123&layout=compact&hide_border=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kathrin's github stats](https://github-readme-stats.vercel.app/api?username=kschmitz123)](https://github.com/anuraghazra/github-readme-stats)
+[![Kathrin's github stats](https://github-readme-stats.vercel.app/api?username=kschmitz123&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kschmitz123/kschmitz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

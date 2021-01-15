@@ -1,8 +1,13 @@
+![](https://komarev.com/ghpvc/?username=kschmitz123&color=yellow)
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FCBE2B&height=100&section=header&text=Hi%20there%20👋&fontSize=70)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kschmitz123&layout=compact&hide_border=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Kathrin's github stats](https://github-readme-stats.vercel.app/api?username=kschmitz123&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **kschmitz123/kschmitz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
